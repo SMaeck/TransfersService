@@ -4301,11 +4301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.App\\Transferencias.App.csproj",
+      "projectUniqueName": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.App\\Transferencias.App.csproj",
       "projectName": "Transferencias.App",
-      "projectPath": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.App\\Transferencias.App.csproj",
+      "projectPath": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.App\\Transferencias.App.csproj",
       "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.App\\obj\\",
+      "outputPath": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4323,8 +4323,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.Persistence\\Transferencias.Persistence.csproj": {
-              "projectPath": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.Persistence\\Transferencias.Persistence.csproj"
+            "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.Persistence\\Transferencias.Persistence.csproj": {
+              "projectPath": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.Persistence\\Transferencias.Persistence.csproj"
             }
           }
         }

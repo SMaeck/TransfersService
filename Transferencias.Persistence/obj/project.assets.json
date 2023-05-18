@@ -3514,11 +3514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.Persistence\\Transferencias.Persistence.csproj",
+      "projectUniqueName": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.Persistence\\Transferencias.Persistence.csproj",
       "projectName": "Transferencias.Persistence",
-      "projectPath": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.Persistence\\Transferencias.Persistence.csproj",
+      "projectPath": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.Persistence\\Transferencias.Persistence.csproj",
       "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.Persistence\\obj\\",
+      "outputPath": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",

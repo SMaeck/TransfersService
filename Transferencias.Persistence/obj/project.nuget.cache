@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GmapieyW0gnZh6htERiTwWFs8S1GjzpOMDl1+jr5g3P24ZTJg1mesBOACFpdk3v9gPoKtK2RKDW+8YuDtqd0Jg==",
+  "dgSpecHash": "DCzBDMexZO1RJeFLUd8Ov0ltCCwNdSoxt4xTaGoj9z41Oy9n1XX+sqcluatatoz7I9bbC4NKaliyeQdsL56L0A==",
   "success": true,
-  "projectFilePath": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.Persistence\\Transferencias.Persistence.csproj",
+  "projectFilePath": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.Persistence\\Transferencias.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santiago\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Santiago\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

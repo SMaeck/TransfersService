@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FO+ykZkj7CF0eTeUVSyvt7SvQmVNYcWnGz6y8ZtaeE5f9NciS5POV4ZXw0YCno/WGlNZyAzWdM3Lbhh5i/e6Pw==",
+  "dgSpecHash": "HqB9wEx3LE88KSmDXu4tIa88gKIisWsSGiWOkBmGI7zB+9tVY496yrgBVMJnsL6ROioHwdVA+6NGciLJCSrAew==",
   "success": true,
-  "projectFilePath": "E:\\Documentos\\Work\\CursoMicro\\Transferencias\\Transferencias.App\\Transferencias.App.csproj",
+  "projectFilePath": "E:\\Documentos\\Work\\CursoMicro\\Curso\\TransfersService\\Transferencias.App\\Transferencias.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santiago\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Santiago\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
